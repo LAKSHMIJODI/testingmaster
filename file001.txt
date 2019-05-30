@@ -16,3 +16,5 @@ helloo
 hiiii
 
 sunday is holiday
+
+adding 3waymerge in master
